@@ -1,0 +1,26 @@
+
+.container{
+display: flex;
+width: 600px;
+  margin: 0 auto;
+  text-align: center;
+  align-items: center;
+  justify-content: space-between;
+  position: relative;
+}
+img {
+    display:flex;
+    height: 100px;
+    width: 100px;
+    justify-content:center;
+}
+p{
+  font-size: 100px;
+  padding-bottom: 25px;
+}
+.view{
+  visibility: visible;
+  justify-content:center;
+  height: 350px;
+  width: 350px;
+}
